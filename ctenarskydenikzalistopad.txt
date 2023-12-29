@@ -1,0 +1,110 @@
+
+<!DOCKTYPE html>
+<html>
+<head>
+<title>ctenarsky denik za listopad</title>
+<body>
+<h1>Cesta</h1>
+<h2> Cormac McCarthy</h2>
+<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaoxy-3qxZKL1fsxSKdb8A83iFhlSU12-jKX01N7Z8NcmTv60k">
+<dl>
+  <dt>Linguistika</dt>
+  <dd>Používal polysyndetony, vyhýbal se citování a přiřazení kdo mluví</dd>
+  <dt>Námět</dt>
+  <dd>Americký jih- historický žánr ( občanská válka a rekonstrukce); sci-fi a postapokalypsa; sociální a morální námět</dd>
+<dt>politika</dt>
+<dd>nevyjadřoval se, cenil si vědy a pokroku. Respektoval vědce. </dd>
+</dl>
+<h2>Kniha</h2>
+<p></p>
+<ul><li>místo: východní pobřeží USA
+</li>
+<li>doba: přítomnost
+</li>
+<li>žánr: román, postapokalyptické sci-fi
+</li>
+<li>
+3. osoba
+</li>
+<li>
+nečlenění na kapitoly
+</li>
+<li>
+McCarthy chtěl vyjádřit, jak je jednoduché sejít z cesty. 
+</li>
+
+</ul>
+<h2>Děj</h2>
+<p>Otec a syn přežívají apokalypsu. McCartyho popis distopického světa je asi ten nejkrutější, který jsem kdy četl. Není duležité, co podnítilo apokalypsu ale samotný stav apokalypsy. Nikdy se tak nedozvíme její zvyk a jak na ní protagonisti reagovali. Dystopie je hlavně vyjádřena beznadějí. V ovzduší je silná vrstva prachu, která umrtvila rostliny, a tak kolabuje i živočišní systém. Potravy je postupem času míň a míň. Lidé začnou být zoufalý a při hladovění začnou bojovat o jídlo. Na světě se civilizace rozpustí. Přežijí jen imorální lovci, kteří se dokáží přizbůsobit novým pravidlům na to, aby přežili. Chovají se jako zvířata a praktikují kanibalismus. Hlavní protagonisti jsou Otec a syn, kteří cestují sami. Cestovala s nima i Matka, která ale spáchala sebevraždu, kvůli beznaději a zhoršujícím se podmínkám. Otce táhne dopředu víra v syna, kterého vidí jako boha. Syn je jeden z posledních dětí na světě, všichni ostatní umřeli buďto na hlad, nebo byli zabiti. Jako dítě kontrastuje s nelítostným pragmatismem. Nechce nikomu ublížit a snaží si najít kamarády. Narodil se až po apokalypse. Je tak odříznutý od ostatních, neboť nezažil dobu civilizace. Otec mu vypráví jak svět fungoval a naučil ho mrávním zásádám. Syn je tedy jedinačná bytost, kterou nesužujou vzpomínky na předapokalyptický svět a která tvoří budoucnost lidstva. Otec se syna za každou snahu snaží chránit a to i přes to, že trpí rakovinou plic. Pro něj je syn jeho cíl, který ho naplňuje a který mu dává morálku. Po dobu knihy nepotkaj skoro nikoho. Postavy co potkaj jsou buď nebezpečné a musejí se proti nim ukrýt (většina) nebo nejsou nebezpečné, neboť jejich poslední hodina za chvilku odbije. Dvojice je tedy ve světě jedinečná svojí morálkou a vytrvalostí v boji. Otec díky přemýšlení a také štěstí dokáže sehnat zásoby jídla. Synovi je asi 6. Postupem času však otec plive víc krve a v poslední kapitole umře. Jeho syna si vezme pod křídla jiný táta, který se tam znenadála objeví a který má jeho děti na živu. Otázka budoucnosti lidstva zůstane otevřená. 
+</p>
+<p>
+knihu bych doporučil lidem, co si chtějí rozšířit slovní zásobu v angličtině. McCarthy popsal bohatě prostředí. Pro mě to byla nejtěžší kniha v angličtině, kterou jsem kdy četl. Je tam také zabudováno hodně abstraktnosti, v které jsem se nedokázal orientovat (sny otce). Zajímavé je, že na rozdíl od prostředí, mluva byla velice jednoduchá. Děj se mi moc nelíbil, neboť tam bylo hodně pesimismu. Nikdy jsem nečetl knihu, kde se situace od začátku do konce jen zhoršovala a s ním i hrdina.</p>
+<h2>Ukázky</h2>
+<p><em><br>Šlo se jim ještě hůř, než čekal. Za hodinu neušli ani dva kilometry. Zastavil se a ohlédl se na chlapce. Ten také zastavil a čekal.<br>
+
+<br>Ty si myslíš, že umřeme, že jo...<br>
+
+<br>Nevím.<br>
+
+<br>Neumřeme.<br>
+
+<br>Tak jo.<br>
+
+<br>Ale nevěříš mi.<br>
+
+<br>Nevím.<br>
+
+<br>Proč si myslíš, že umřeme?<br>
+
+<br>Nevím.<br>
+
+<br>Neříkej pořád nevím.<br>
+
+<br>Tak jo.<br>
+
+<br>Proč si myslíš, že umřeme?<br>
+
+<br>Nemáme co jíst.<br>
+
+<br>Něco si najdeme.<br>
+
+<br>Tak jo.<br>
+
+<br>Jak dlouho myslíš, že lidi vydržej nejíst?<br>
+
+<br>Nevím.<br>
+
+<br>Ale co si myslíš?<br>
+
+<br>Možná několik dní.<br>
+
+<br>A pak co? Pak padneš a jseš mrtvej?<br>
+
+<br>Ano.<br>
+
+<br>- 58 -<br>
+
+<br>Tak to není. Trvá to hodně dlouho. Vodu máme. Ta je vůbec nejdůležitější. Bez vody dlouho nevydržíš.<br>
+
+<br>Tak jo.<br>
+
+<br>Stejně mi nevěříš.<br>
+
+<br>Nevím.<br>
+
+<br>Pozorně si ho prohlížel. Stál tam a ruce měl vražené do kapes nadměrného saka s tenkým proužkem.<br>
+
+<br>Myslíš si, že ti lžu?<br>
+
+<br>Ne.<br>
+
+<br>Ale myslíš si, že ohledně umírání bych ti zalhat mohl.<br>
+
+<br>Ano.<br>
+
+<br>No jo, to bych mohl. Jenže neumíráme.<br>
+
+<br>Tak jo.<br>
+</em></p>
+</body>
+</html>
