@@ -11,7 +11,7 @@
   <dt>Linguistika</dt>
   <dd>Používal polysyndetony, vyhýbal se citování a přiřazení kdo mluví</dd>
   <dt>Námět</dt>
-  <dd>Americký jih- historický žánr ( občanská válka a rekonstrukce); sci-fi a postapokalypsa; sociální a morální námět</dd>
+  <dd>Americký jih- historický žánr ( občanská válka a rekonstrukce, Na Jihu žil ( např. El Paso) a zajímal se o její historii a kultuře ( i hispaňolské)); sci-fi a postapokalypsa; sociální a morální námět</dd>
 <dt>politika</dt>
 <dd>nevyjadřoval se, cenil si vědy a pokroku. Respektoval vědce. </dd>
 </dl>
@@ -105,6 +105,15 @@ knihu bych doporučil lidem, co si chtějí rozšířit slovní zásobu v angli�
 <br>No jo, to bych mohl. Jenže neumíráme.<br>
 
 <br>Tak jo.<br>
-</em></p>
+<p> ----------------------------------------------</p>
+</em></p><p><em> Třeba co? Měla jsem to udělat už dávno. Když jsme ještě v revolveru
+měli tři náboje, a ne jen dva. Byla jsem blbá. Už jsme to všechno
+probrali. Já jsem tohle nechtěla. Jsem v tom nevinně. A už toho mám
+po krk. Dokonce už mě napadlo, že ti to ani neřeknu. Asi by to bylo
+nejlepší. Máš dva náboje a pak co? Neochráníš nás. Tvrdíš, že bys
+pro nás umřel, ale k čemu by to bylo? Nebýt tebe, vzala bych si ho s
+sebou. Víš, že bych to dokázala. Bylo by to tak správný.<e/em><br>
+----------------------------------------------</p>
+<p> autor používá krátké věty a hovorový jazyk</p>
 </body>
 </html>
